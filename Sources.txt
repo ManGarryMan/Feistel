@@ -1,0 +1,6 @@
+Источники:
+Функция «МАГМА» - https://xakep.ru/2018/05/10/working-with-magma/
+Функция «МАГМА» https://kaf401.rloc.ru/Criptfiles/gost28147/GOST28147.htm
+SBOX - https://habr.com/ru/companies/virgilsecurity/articles/439788/
+Генератор ключей - https://generate-random.org/encryption-keys
+Padding - https://habr.com/ru/articles/256367/
